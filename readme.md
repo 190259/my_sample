@@ -6,3 +6,7 @@
 
 ## note
 - hello
+
+```php
+echo 'hello'
+```
